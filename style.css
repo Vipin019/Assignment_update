@@ -4,4 +4,142 @@ body{
 h1{
     text-align: center;
     color: red;
+    font-size: 7rem;
+    background-color: rgb(232, 161, 235);
+    border: .2rem solid red;
+    border-radius: .5rem;
+    
 }
+.neb{
+    background-color: greenyellow;
+    border: .2rem solid greenyellow;
+    border-radius: .5rem;
+    
+}
+.neb li {
+    display: inline-block;
+    
+    padding: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    
+}
+.neb li a{
+    padding: .6rem;
+}
+.neb .info li{
+    padding: 0rem;
+    margin: 0rem;
+    
+}
+.neb .info li a{
+    margin-left: 72rem;
+   padding-right: .2rem;
+   border: 2rem solid pink;
+   font-size: 2rem;
+   background-color: rgb(255,192,203);
+   border-radius: 4rem;
+
+}
+.neb li a{
+    background-color: cornflowerblue;
+    text-decoration: none;
+    border: .2rem solid red;
+    border-radius: 2rem;
+    color: red;
+}
+.btn{
+    text-align: center;
+    border: .2rem solid red;
+    border-radius: .5rem;
+    color: aquamarine;
+    background-color: rgb(55, 58, 209);
+    margin: 5rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    padding: 5rem;
+    
+    
+}
+.btn li a{
+    color: rgb(230,2,52);
+    text-decoration: none;
+   
+
+
+}
+.ee{
+    margin: 3rem;
+    border: .2rem solid red;
+    text-decoration: none;
+    border-radius: 2rem;
+    padding: .5rem;
+    font-size: 2rem;
+    background-color: aquamarine;
+    
+}
+.ece{
+    margin: 3rem;
+    border: .2rem solid red;
+    text-decoration: none;
+    border-radius: 2rem;
+    padding: .5rem;
+    font-size: 2rem;
+    background-color: aquamarine;
+}
+.eie{
+    margin: 3rem;
+    border: .2rem solid red;
+    text-decoration: none;
+    border-radius: 2rem;
+    padding: .5rem;
+    font-size: 2rem;
+    background-color: aquamarine;
+}
+.cse{
+    margin: 3rem;
+    border: .2rem solid red;
+    text-decoration: none;
+    border-radius: 2rem;
+    padding: .5rem;
+    font-size: 2rem;
+    background-color: aquamarine;
+}
+.pe{
+    margin: 3rem;
+    border: .2rem solid red;
+    text-decoration: none;
+    border-radius: 2rem;
+    padding: .5rem;
+    font-size: 2rem;
+    background-color: aquamarine;
+}
+.ci{
+    margin: 3rem;
+    border: .2rem solid red;
+    text-decoration: none;
+    border-radius: 2rem;
+    padding: .5rem;
+    font-size: 2rem;
+    background-color: aquamarine;
+}
+.ch{
+    margin: 3rem;
+    border: .2rem solid red;
+    text-decoration: none;
+    border-radius: 2rem;
+    padding: .5rem;
+    font-size: 2rem;
+    background-color: aquamarine;
+}
+.be{
+    margin: 3rem;
+    border: .2rem solid red;
+    text-decoration: none;
+    border-radius: 2rem;
+    padding: .5rem;
+    font-size: 2rem;
+    background-color: aquamarine;
+}
+
+
