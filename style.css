@@ -1,21 +1,29 @@
 body{
-    background-color: blue;
+   
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    background-color: rgb(160, 160, 230);
 }
 html{
     font-size: 100%;
 }
 h1{
+   
     text-align: center;
-    color: red;
+    color: brown;
     font-size: 7rem;
-    background-color: rgb(232, 161, 235);
-    border: .2rem solid red;
-    border-radius: .5rem;
+    background-color: rgb(192,192,192);
     
+    border: .2rem solid brown;
+    border-radius: 3rem;
+    margin-top: .01rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    padding: 0rem;
+
 }
 .neb{
-    background-color: greenyellow;
-    border: .2rem solid greenyellow;
+    background-color: brown;
+    border: .2rem solid brown;
     border-radius: .5rem;
     
 }
@@ -36,20 +44,35 @@ h1{
     
 }
 .neb .info li a{
-    margin-left: 72rem;
+    margin-left: 65rem;
+    margin-right: 5rem;
    padding-right: .2rem;
    border: 2rem solid pink;
-   font-size: 2rem;
+   font-size: 1rem;
    background-color: rgb(255,192,203);
    border-radius: 4rem;
 
 }
 .neb li a{
-    background-color: cornflowerblue;
+    background-color:  rgb(255,192,203);
     text-decoration: none;
+    border: .2rem solid rgb(141, 8, 8);
+    border-radius: 2rem;
+    color: rgb(141, 8, 8);
+}
+
+
+.branch{
+    text-align: center;
+    font-size: 5rem;
+    color: pink;
+    background-color: rgb(54,58,209);
     border: .2rem solid red;
     border-radius: 2rem;
-    color: red;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: 5rem;
+    padding: 0rem;
 }
 .btn{
     text-align: center;
