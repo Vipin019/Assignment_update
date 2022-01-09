@@ -4,10 +4,10 @@ body{
 h1{
     text-decoration: underline;
     text-align: center;
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 p{
-    font-size: 1.5rem;
+    font-size: .8rem;
 }
 .fom{
     

@@ -2,10 +2,10 @@
 h1{
     text-align: center;
     color: red;
-    font-size: 20rem;
+    font-size: 10rem;
 }
 p{
-    font-size: 15rem;
+    font-size: 5rem;
 }
 @media(max-width:998px){
     html{
