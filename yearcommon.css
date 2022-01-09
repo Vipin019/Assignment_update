@@ -1,0 +1,26 @@
+.head{
+    display: block;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 2rem;
+}
+.bttn{
+    margin: 2rem;
+    display: block;
+    text-align: center;
+    padding: 1rem;
+     
+}
+
+.btn{
+    background-color: aqua;
+   
+    border-radius: 10rem;
+    
+    
+    color: aqua;
+}
+.btn li a{
+    
+    text-decoration: none;
+}

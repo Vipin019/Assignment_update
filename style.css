@@ -1,7 +1,7 @@
 body{
    
     font-family: 'Baloo Bhaijaan 2', cursive;
-    background-color: rgb(160, 160, 230);
+    
 }
 html{
     font-size: 100%;
@@ -9,17 +9,33 @@ html{
 h1{
    
     text-align: center;
-    color: brown;
-    font-size: 7rem;
-    background-color: rgb(192,192,192);
     
-    border: .2rem solid brown;
+    font-size: 5rem;
+    text-decoration: underline;
+    
+   
     border-radius: 3rem;
-    margin-top: .01rem;
+    margin-top: 1rem;
     margin-left: 10rem;
     margin-right: 10rem;
     padding: 0rem;
 
+}
+.imge{
+    
+    display: flex;
+    
+   
+    justify-content: center;
+    margin: 0rem;
+    padding: 0rem;
+    
+    
+    
+}
+.imge img{
+    height: 30rem;
+    width: 500rem;
 }
 .neb{
     background-color: brown;
@@ -58,28 +74,33 @@ h1{
     text-decoration: none;
     border: .2rem solid rgb(141, 8, 8);
     border-radius: 2rem;
-    color: rgb(141, 8, 8);
+    
 }
 
 
 .branch{
     text-align: center;
     font-size: 5rem;
-    color: pink;
-    background-color: rgb(54,58,209);
-    border: .2rem solid red;
+    
+    background-color: brown;
+    
     border-radius: 2rem;
-    margin-left: 10rem;
-    margin-right: 10rem;
+    margin-left: 9rem;
+    margin-right: 9rem;
     margin-top: 5rem;
     padding: 0rem;
 }
+.main{
+    background-color: rgb(245, 209, 188);
+    margin-left: 8rem;
+    margin-right: 8rem;
+}
 .btn{
     text-align: center;
-    border: .2rem solid red;
+    
     border-radius: .5rem;
     color: aquamarine;
-    background-color: rgb(55, 58, 209);
+    background-color: rgb(246, 199, 169);
     margin: 5rem;
     margin-left: 10rem;
     margin-right: 10rem;
@@ -88,7 +109,7 @@ h1{
     
 }
 .btn li a{
-    color: rgb(230,2,52);
+   
     text-decoration: none;
    
 
@@ -96,7 +117,7 @@ h1{
 }
 .ee{
     margin: 3rem;
-    border: .2rem solid red;
+   
     text-decoration: none;
     border-radius: 2rem;
     padding: .5rem;
@@ -106,7 +127,7 @@ h1{
 }
 .ece{
     margin: 3rem;
-    border: .2rem solid red;
+    
     text-decoration: none;
     border-radius: 2rem;
     padding: .5rem;
@@ -115,7 +136,7 @@ h1{
 }
 .eie{
     margin: 3rem;
-    border: .2rem solid red;
+    
     text-decoration: none;
     border-radius: 2rem;
     padding: .5rem;
@@ -124,7 +145,7 @@ h1{
 }
 .cse{
     margin: 3rem;
-    border: .2rem solid red;
+    
     text-decoration: none;
     border-radius: 2rem;
     padding: .5rem;
@@ -133,7 +154,16 @@ h1{
 }
 .pe{
     margin: 3rem;
-    border: .2rem solid red;
+    
+    text-decoration: none;
+    border-radius: 2rem;
+    padding: .5rem;
+    font-size: 2rem;
+    background-color: aquamarine;
+}
+.me{
+    margin: 3rem;
+    
     text-decoration: none;
     border-radius: 2rem;
     padding: .5rem;
@@ -142,7 +172,7 @@ h1{
 }
 .ci{
     margin: 3rem;
-    border: .2rem solid red;
+    
     text-decoration: none;
     border-radius: 2rem;
     padding: .5rem;
@@ -151,7 +181,7 @@ h1{
 }
 .ch{
     margin: 3rem;
-    border: .2rem solid red;
+   
     text-decoration: none;
     border-radius: 2rem;
     padding: .5rem;
@@ -160,7 +190,7 @@ h1{
 }
 .be{
     margin: 3rem;
-    border: .2rem solid red;
+    
     text-decoration: none;
     border-radius: 2rem;
     padding: .5rem;

@@ -1,11 +1,11 @@
-body{
-    background-color: rgb(76, 76, 172);
 
-}
 h1{
     text-align: center;
     color: red;
-    font-size: 5rem;
+    font-size: 20rem;
+}
+p{
+    font-size: 15rem;
 }
 @media(max-width:998px){
     html{

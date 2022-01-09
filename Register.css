@@ -1,6 +1,31 @@
 body{
-    background-color: rgb(163,159,230);
+   
 }
 h1{
+    text-decoration: underline;
+    text-align: center;
+    font-size: 2rem;
+}
+p{
+    font-size: 1.5rem;
+}
+.fom{
+    
+    background-color: aqua;
+    
+    
+    
+   font-size: 1rem;
+    border-radius: 10rem;
+    margin-top: 10rem;
+    padding: 1rem;
+    color: black;
+    
+    
+   
+}
+.fom li{
+
+    display: block;
     text-align: center;
 }
